@@ -1,0 +1,1 @@
+The web-based system is expected to help common users in making decisions regarding water well in a particular location. The system will be driven by NAQUIM data of CGWB  like lithology, geophysical logs, water levels, water quality, aquifer maps, On a user-selected point the AI-based predictor should be able to provide the following information.
